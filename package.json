@@ -1,0 +1,12 @@
+{
+  "name": "vocallabs-outreach",
+  "version": "1.0.0",
+  "description": "Vocallabs Outreach Engine",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
